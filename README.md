@@ -1,0 +1,2 @@
+# CoSENT_pytorch
+基于bert4torch框架，CoSENT的pytorch简介实现
